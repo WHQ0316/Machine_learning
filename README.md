@@ -1,4 +1,4 @@
-# one.
+# machine learning
 ---
 ### 神经网络  net
 
